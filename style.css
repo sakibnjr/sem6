@@ -96,6 +96,10 @@ img {
 .content {
   width: 300px;
   margin: 20px auto;
+  padding: 0px 10px;
+}
+.home {
+  margin-bottom: 20px;
 }
 .subject {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
