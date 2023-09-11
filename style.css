@@ -83,7 +83,7 @@ img {
   background-color: #f31559;
   color: #effffd;
   position: relative;
-  left: 70px;
+  left: 83px;
   bottom: 18px;
 }
 .task:hover {
@@ -129,13 +129,17 @@ li {
   font-size: 24px;
   border-radius: 10px;
   padding: 5px;
+  margin-bottom: 20px;
 }
 .up {
   color: #38d9a9;
 }
-.down {
-  color: #f31559;
+.assignment {
+  color: #845ef7;
 }
 .upload:hover {
   box-shadow: 5px 5px #38d9a9, -5px -5px #f31559;
+}
+.ai {
+  color: lightgray;
 }
